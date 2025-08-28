@@ -12,9 +12,3 @@ The **File Organizer Tool** is a Go-based program that automates the organizatio
 
 Ensure you have Go installed on your system.
 Or main.py can be used to run instead of Go.
-
-### Installation
-
-1. Clone or download this repository to your local machine.
-   ```bash
-   git clone https://your-repository-url.git
