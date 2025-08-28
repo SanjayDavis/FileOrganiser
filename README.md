@@ -10,5 +10,4 @@ The **File Organizer Tool** is a Go-based program that automates the organizatio
 
 ### Prerequisites
 
-Ensure you have Go installed on your system.
-Or main.py can be used to run instead of Go.
+Ensure you have Go installed on your system or Python can be used.
